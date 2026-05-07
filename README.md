@@ -216,8 +216,7 @@ recadrage_avec_homographie.py
 cv_homography/
 │
 ├── recadrage_avec_homographie.py   # Script principal
-└── README.md   # Documentation
-└── LICENSE 
+├── README.md   # Documentation 
 └── requirements.txt   # Dépendences nécesaires
 
 ```
